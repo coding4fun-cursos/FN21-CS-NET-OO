@@ -1,0 +1,10 @@
+c:\users\ryanpadilha\documents\visual studio 2015\Projects\FN21-Aula03-Exemplos\FN21-Aula03-Exemplos\bin\Debug\FN21-Aula03-Exemplos.exe.config
+c:\users\ryanpadilha\documents\visual studio 2015\Projects\FN21-Aula03-Exemplos\FN21-Aula03-Exemplos\obj\Debug\FN21-Aula03-Exemplos.csprojResolveAssemblyReference.cache
+c:\users\ryanpadilha\documents\visual studio 2015\Projects\FN21-Aula03-Exemplos\FN21-Aula03-Exemplos\obj\Debug\FN21_Aula03_Exemplos.Properties.Resources.resources
+c:\users\ryanpadilha\documents\visual studio 2015\Projects\FN21-Aula03-Exemplos\FN21-Aula03-Exemplos\obj\Debug\FN21-Aula03-Exemplos.csproj.GenerateResource.Cache
+c:\users\ryanpadilha\documents\visual studio 2015\Projects\FN21-Aula03-Exemplos\FN21-Aula03-Exemplos\bin\Debug\FN21-Aula03-Exemplos.exe
+c:\users\ryanpadilha\documents\visual studio 2015\Projects\FN21-Aula03-Exemplos\FN21-Aula03-Exemplos\bin\Debug\FN21-Aula03-Exemplos.pdb
+c:\users\ryanpadilha\documents\visual studio 2015\Projects\FN21-Aula03-Exemplos\FN21-Aula03-Exemplos\obj\Debug\FN21_Aula03_Exemplos.FrmPrincipal.resources
+c:\users\ryanpadilha\documents\visual studio 2015\Projects\FN21-Aula03-Exemplos\FN21-Aula03-Exemplos\obj\Debug\FN21-Aula03-Exemplos.exe
+c:\users\ryanpadilha\documents\visual studio 2015\Projects\FN21-Aula03-Exemplos\FN21-Aula03-Exemplos\obj\Debug\FN21-Aula03-Exemplos.pdb
+c:\users\ryanpadilha\documents\visual studio 2015\Projects\FN21-Aula03-Exemplos\FN21-Aula03-Exemplos\obj\Debug\FN21_Aula03_Exemplos.FormInput.resources
