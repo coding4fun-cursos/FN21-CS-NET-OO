@@ -1,6 +1,6 @@
 # FN-21 C# .NET e Orientação a Objetos
 
-<b>Coding4Fun</b> - http://coding4fun.com.br/</br>
+<b>Coding4Fun Treinamentos</b> - http://coding4fun.com.br/</br>
 <b>Instrutor</b> - Ryan Padilha - https://br.linkedin.com/in/ryanpadilha - ryan@coding4fun.com.br</br>
 <b>Conteúdo programático detalhado</b> - https://goo.gl/4mOx5O</br>
 
