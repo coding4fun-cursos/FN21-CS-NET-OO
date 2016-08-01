@@ -1,0 +1,9 @@
+c:\users\ryanpadilha\documents\visual studio 2015\Projects\FN21-Aula04-Exemplos\FN21-Aula04-Exemplos\bin\Debug\FN21-Aula04-Exemplos.exe.config
+c:\users\ryanpadilha\documents\visual studio 2015\Projects\FN21-Aula04-Exemplos\FN21-Aula04-Exemplos\obj\Debug\FN21-Aula04-Exemplos.csprojResolveAssemblyReference.cache
+c:\users\ryanpadilha\documents\visual studio 2015\Projects\FN21-Aula04-Exemplos\FN21-Aula04-Exemplos\obj\Debug\FN21_Aula04_Exemplos.Form1.resources
+c:\users\ryanpadilha\documents\visual studio 2015\Projects\FN21-Aula04-Exemplos\FN21-Aula04-Exemplos\obj\Debug\FN21_Aula04_Exemplos.Properties.Resources.resources
+c:\users\ryanpadilha\documents\visual studio 2015\Projects\FN21-Aula04-Exemplos\FN21-Aula04-Exemplos\obj\Debug\FN21-Aula04-Exemplos.csproj.GenerateResource.Cache
+c:\users\ryanpadilha\documents\visual studio 2015\Projects\FN21-Aula04-Exemplos\FN21-Aula04-Exemplos\bin\Debug\FN21-Aula04-Exemplos.exe
+c:\users\ryanpadilha\documents\visual studio 2015\Projects\FN21-Aula04-Exemplos\FN21-Aula04-Exemplos\bin\Debug\FN21-Aula04-Exemplos.pdb
+c:\users\ryanpadilha\documents\visual studio 2015\Projects\FN21-Aula04-Exemplos\FN21-Aula04-Exemplos\obj\Debug\FN21-Aula04-Exemplos.exe
+c:\users\ryanpadilha\documents\visual studio 2015\Projects\FN21-Aula04-Exemplos\FN21-Aula04-Exemplos\obj\Debug\FN21-Aula04-Exemplos.pdb
